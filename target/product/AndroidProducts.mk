@@ -36,5 +36,5 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/generic.mk \
     $(LOCAL_DIR)/full.mk \
     $(LOCAL_DIR)/sdk.mk \
-    $(LOCAL_DIR)/sim.mk
-endif
+    $(LOCAL_DIR)/sim.mk 
+    endif
